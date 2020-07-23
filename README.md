@@ -15,7 +15,7 @@
 - [x] [Topics of JavaScript/ES6-ES8 - p5.js Tutorial by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
 - [x] [JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge (Full Course) by FreeCodeCamp](https://youtu.be/nZ1DMMsyVyI)
 
-## Data Structures And Algorithms
+## Data Structures And Algorithms     
 
    🤑💵 Paid Course 💵🤑             
  - [x] [JavaScript Algorithms and Data Structures Masterclass by Colt Steele (Udemy)](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
@@ -28,7 +28,7 @@
  - [x] [Github crash course by Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
  
 ## JavaScript Under The Hood
- - [x] [JavaScript: Understanding the Weird Parts - The First 3.5 Hours by Anthony Alicea](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
+ - [x] [JavaScript: Understanding the Weird Parts - The First 3.5 Hours by Anthony Alicea](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)                             
    🤑💵 Paid Course 💵🤑                               
  - [x] [JavaScript: Understanding the Weird Parts - Full Course(remaining 8 hours) by Anthony Alicea](https://www.udemy.com/share/101XjU/)
  
