@@ -11,6 +11,7 @@
 ## Kick Starters
 
 - [x] [JavaScript for Beginners by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+- [x] [JavaScript Course for Beginners 2020 - Learn JavaScript from Scratch! by Academind](https://youtu.be/2qDywOS7VAc)
 - [x] [JavaScript DOM Manipulation by Brad Traversy](https://www.youtube.com/playlist?list=PLjEBqWnjXGvaieUGAESixHWNiE2u4eR5K)
 - [x] [Build 15 JavaScript Projects - Vanilla JavaScript Course by FreeCodeCamp](https://www.youtube.com/watch?v=3PHXvlpOkf4)
 - [x] [Topics of JavaScript/ES6-ES8 - p5.js Tutorial by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
@@ -50,6 +51,9 @@
  
 ## Javascript Design Patterns
  - [x] [Design Patterns in Vanilla JavaScript by DevSage](https://www.youtube.com/playlist?list=PLjEBqWnjXGvZtvsys_GyExkBxvyJytT9H)
+ 
+## Blockchain with Javascript
+ - [x] [Building a blockchain with Javascript](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4)
 
 ## Frontend Interview Prep
  - [x] [Core Javascript Fundamentals by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9eLVlWFs-nz5PKXJU4f7Fks)
@@ -58,7 +62,6 @@
 ## Interview Prep
  - [x] [Answering Tricky JS Interview Questions by Coding Tech](https://www.youtube.com/watch?v=MY0UBGX2FtA)
 
- 
 ## Must Watch Talks
  - [x] [Understanding the event loop and single threaded JavaScript by philip roberts](https://youtu.be/8aGhZQkoFbQ)
  - [x] [Understanding asynchronous JavaScript and microtask queue by Shelley Vohr](https://youtu.be/SrNQS8J67zc)
@@ -70,6 +73,9 @@
  - [x] [TypeScript for Beginners by JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
 
 ## TensorFlow JS - Machine Learning
+ - [x] [Neural networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+ - [x] [Machine learning by FunFunFunction](https://www.youtube.com/playlist?list=PL0zVEGEvSaeGmPpG8tAaqSmf3k56LPwiF)
+ - [x] [Neural Networks - The Nature of Code by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh)
  - [x] [TensorFlow.js - Intelligence and Learning by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ)
  - [x] [TensorFlow.js Color Classifier by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bmMRCIoTi72aNWHo7epX4L)
 
