@@ -47,6 +47,7 @@
  
 ## Interview Prep
  - [x] [Answering Tricky JS Interview Questions by Coding Tech](https://www.youtube.com/watch?v=MY0UBGX2FtA)
+
  
 ## Must Watch Talks
  - [x] [Understanding the event loop and single threaded JavaScript by philip roberts](https://youtu.be/8aGhZQkoFbQ)
@@ -54,3 +55,13 @@
  - [x] [Rediscovering JavaScript by Venkat Subramaniam](https://www.youtube.com/watch?v=dxzBZpzzzo8)
  - [x] [Recursion, Iteration, and JavaScript: A Love Story - Anjana Vakil](https://www.youtube.com/watch?v=FmiQr4nfoPQ)
  - [x] [The Hitchhiker's Guide to All Things Memory in Javascript by Safia Abdalla](https://www.youtube.com/watch?v=AeUCN2lPqL8&t=920s)
+
+## TypeScript
+ - [x] [TypeScript for Beginners by JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
+
+## TensorFlow JS - Machine Learning
+ - [x] [TensorFlow.js - Intelligence and Learning by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ)
+ - [x] [TensorFlow.js Color Classifier by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bmMRCIoTi72aNWHo7epX4L)
+
+## Progressive Web Apps
+ - [x] [PWA Tutorial for Beginners by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
