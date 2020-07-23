@@ -21,7 +21,7 @@
  
 ## JavaScript Under The Hood
  - [x] [JavaScript: Understanding the Weird Parts - The First 3.5 Hours by Anthony Alicea](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
-   🤑💵 Paid Course 💵🤑
+   🤑💵 Paid Course 💵🤑                               
  - [x] [JavaScript: Understanding the Weird Parts - Full Course(remaining 8 hours) by Anthony Alicea](https://www.udemy.com/share/101XjU/)
  
 ## Google Chrome Developer Tools
@@ -41,8 +41,9 @@
 ## Javascript Design Patterns
  - [x] [Design Patterns in Vanilla JavaScript by DevSage](https://www.youtube.com/playlist?list=PLjEBqWnjXGvZtvsys_GyExkBxvyJytT9H)
 
-## JavaScript Core Concepts For Frontend Interview
+## Frontend Interview Prep
  - [x] [Core Javascript Fundamentals by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9eLVlWFs-nz5PKXJU4f7Fks)
+ - [x] [Cracking the Frontend Interview by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9fkCH4XgL2GEh0Bd1IHEaGL)
  
 ## Interview Prep
  - [x] [Answering Tricky JS Interview Questions by Coding Tech](https://www.youtube.com/watch?v=MY0UBGX2FtA)
