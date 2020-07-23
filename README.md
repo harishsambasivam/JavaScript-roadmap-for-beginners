@@ -1,5 +1,7 @@
 # JavaScript RoadMap :rocket:
 
+- [x] [The Complete Web Developer RoadMap](https://medium.com/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e)
+
 ## Kick Starters
 
 - [x] [JavaScript for Beginners by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)   
