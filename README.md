@@ -10,7 +10,8 @@
 
 ## Kick Starters
 
-- [x] [JavaScript for Beginners by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)   
+- [x] [JavaScript for Beginners by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+- [x] [JavaScript DOM Manipulation by Brad Traversy](https://www.youtube.com/playlist?list=PLjEBqWnjXGvaieUGAESixHWNiE2u4eR5K)
 - [x] [Build 15 JavaScript Projects - Vanilla JavaScript Course by FreeCodeCamp](https://www.youtube.com/watch?v=3PHXvlpOkf4)
 - [x] [Topics of JavaScript/ES6-ES8 - p5.js Tutorial by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
 - [x] [JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge (Full Course) by FreeCodeCamp](https://youtu.be/nZ1DMMsyVyI)
