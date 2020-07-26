@@ -65,17 +65,17 @@
  - [x] [Answering Tricky JS Interview Questions by Coding Tech](https://www.youtube.com/watch?v=MY0UBGX2FtA)
 
 ## Must Watch Talks
-   ### Understanding How JavaScript Works(Task/Event queue and Event Loop)
+
  - [x] [Understanding the event loop and single threaded JavaScript by philip roberts](https://youtu.be/8aGhZQkoFbQ)
-   ### UnderStanding Asynchronous JavaScript and MicroTask Queue
+   #### UnderStanding Asynchronous JavaScript and MicroTask Queue
  - [x] [Understanding asynchronous JavaScript and microtask queue by Shelley Vohr](https://youtu.be/SrNQS8J67zc)
-   ### Must watch talk to understand JavaScript Concepts
+   #### Must watch talk to understand JavaScript Concepts
  - [x] [Rediscovering JavaScript by Venkat Subramaniam](https://www.youtube.com/watch?v=dxzBZpzzzo8)
-    ### Thinking Recursively and Tail Call Optimization
+    #### Thinking Recursively and Tail Call Optimization
  - [x] [Recursion, Iteration, and JavaScript: A Love Story - Anjana Vakil](https://www.youtube.com/watch?v=FmiQr4nfoPQ)
-    ### Garbage Collection in JavaScript
+    #### Garbage Collection in JavaScript
  - [x] [The Hitchhiker's Guide to All Things Memory in Javascript by Safia Abdalla](https://www.youtube.com/watch?v=AeUCN2lPqL8&t=920s)
-    ### Undertanding Objects And JavaScript Engine's Code Optimization Techniques
+    #### Undertanding Objects And JavaScript Engine's Code Optimization Techniques
  - [x] [JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer](https://www.youtube.com/watch?v=5nmpokoRaZI&t=1236s)
  - [x] [JavaScript engines - how do they even? by Franziska Hinkelmann](https://www.youtube.com/watch?v=p-iiEDtpy6I)
 
