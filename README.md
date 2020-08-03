@@ -33,6 +33,9 @@
 - [x] [JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge (Full Course) by FreeCodeCamp](https://youtu.be/nZ1DMMsyVyI)
 - [x] [20+ Vannila JS Projects](https://www.youtube.com/playlist?list=PLjEBqWnjXGvbNIcb43GeVx8q8mpeUYe3X)
 
+## 33-JS Concepts
+- [x] [33 Concepts Every JavaScript Developer Should Know(github)](https://github.com/leonardomso/33-js-concepts)
+
 ## Data Structures And Algorithms     
 
    🤑💵 Paid Course 💵🤑             
@@ -77,6 +80,8 @@
  
 ## Interview Prep
  - [x] [Answering Tricky JS Interview Questions by Coding Tech](https://www.youtube.com/watch?v=MY0UBGX2FtA)
+ - [x] [Front-end-Developer-Interview-Questions(github)](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+ - [x] [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 
 ## Must Watch Talks
 
