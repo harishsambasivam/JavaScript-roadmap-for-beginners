@@ -2,7 +2,7 @@
 
 - [x] [The Complete Web Developer RoadMap](https://medium.com/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e)
 
-#### ❤❤❤❤❤❤[Mozila Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)❤❤❤❤❤❤❤❤
+#### [Mozila Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### key is to learn
 - [x] how to use stack over flow?
